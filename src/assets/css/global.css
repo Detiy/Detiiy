@@ -1,0 +1,23 @@
+html,body,#app{
+    height:100%;
+    margin:0;
+    padding:0;
+}
+.el-col{
+    padding:0; 
+}
+.el-main{
+    padding:0px;
+}
+.login_container {
+    background-color: rgb(230, 230, 67);
+    height: 100%;
+  }
+  .el-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  i {
+    font-size: 0.5rem;
+  }
