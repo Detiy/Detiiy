@@ -279,7 +279,7 @@ export default {
   padding: 0px !important;
 }
 .foods {
-  background: #ededed;
+  // background: #ededed;
   border-radius: 4px;
   text-align: center;
   margin-top: 0.2rem;
